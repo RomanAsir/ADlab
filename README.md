@@ -55,38 +55,4 @@ DHCP
 
 Dominio: empresa.local
 
-## Capturas del laboratorio
-
-### 1. Concesiones de direcciones
-![Concesiones de direcciones](imagenes/01-concesiones-direcciones.png)
-
-### 2. DHCP
-![DHCP](imagenes/02-dhcp.png)
-
-### 3. Directiva de grupo
-![Directiva GPO](imagenes/03-directiva-gpo.png)
-
-### 4. DNS
-![DNS](imagenes/04-dns.png)
-
-### 5. Dominio
-![Dominio](imagenes/05-dominio.png)
-
-### 6. Estructura de Active Directory
-![Estructura AD](imagenes/06-estructura-ad.png)
-
-### 7. Grupos
-![Grupos](imagenes/07-grupos.png)
-
-### 8. Miembros de grupo
-![Miembros de grupo](imagenes/08-miembros-grupo.png)
-
-### 9. Ping
-![Ping](imagenes/09-ping.png)
-
-### 10. Usuario
-![Usuario](imagenes/10-usuario.png)
-
-### 11. Usuarios
-![Usuarios](imagenes/11-usuarios.png)
 
